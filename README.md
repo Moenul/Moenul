@@ -38,6 +38,6 @@ I'm a Full-Stack Web Developer with good knowledge of attractive Web Design and 
 <h2></h2>
 
 <h3 align="center">
-  We stan with Palesine <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/svg/1f1f5-1f1f8.svg" width="26"> <br>
+  We stand with Palestine <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/svg/1f1f5-1f1f8.svg" width="26"> <br>
 Stop Genocide 
 </h3>
